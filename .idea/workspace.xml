@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02e99b27-53c4-4e02-9e75-4029e9db181e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="214" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z0ezlNkfffVXHrRRDekONWno3n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pgua.eic.tvs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TesteSuite">
+    <configuration name="IdentificadorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoTestesRespostas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgua.eic.tvs.identificador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgua.eic.tvs.identificador" />
+      <option name="MAIN_CLASS_NAME" value="pgua.eic.tvs.identificador.IdentificadorTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdentificadorTests.verifica_StringSimbolos_False" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoTestesRespostas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgua.eic.tvs.identificador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgua.eic.tvs.identificador" />
+      <option name="MAIN_CLASS_NAME" value="pgua.eic.tvs.identificador.IdentificadorTests" />
+      <option name="METHOD_NAME" value="verifica_StringSimbolos_False" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdentificadorTests.verifica_StringValida_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoTestesRespostas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgua.eic.tvs.identificador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgua.eic.tvs.identificador" />
+      <option name="MAIN_CLASS_NAME" value="pgua.eic.tvs.identificador.IdentificadorTests" />
+      <option name="METHOD_NAME" value="verifica_StringValida_True" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoTestesRespostas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgua.eic.tvs.identificador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgua.eic.tvs" />
+      <option name="MAIN_CLASS_NAME" value="pgua.eic.tvs.TesteSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TesteSuite" />
+        <item itemvalue="JUnit.IdentificadorTests.verifica_StringSimbolos_False" />
+        <item itemvalue="JUnit.IdentificadorTests" />
+        <item itemvalue="JUnit.IdentificadorTests.verifica_StringValida_True" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e99b27-53c4-4e02-9e75-4029e9db181e" name="Default Changelist" comment="" />
+      <created>1583980703782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583980703782</updated>
+      <workItem from="1583980707358" duration="5141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2020" y="100" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583982148855">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="100" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583982148855" />
+    <state x="2688" y="226" width="374" height="635" key="#com.intellij.ide.util.MemberChooser" timestamp="1583980806622">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="226" width="374" height="635" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583980806622" />
+    <state x="2637" y="392" width="486" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583981850682">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2637" y="392" width="486" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583981850682" />
+    <state x="2658" y="285" width="424" height="523" key="FileChooserDialogImpl" timestamp="1583983969331">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2658" y="285" width="424" height="523" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583983969331" />
+    <state width="1870" height="283" key="GridCell.Tab.0.bottom" timestamp="1583987898721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="283" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583987898721" />
+    <state width="1870" height="283" key="GridCell.Tab.0.center" timestamp="1583987898721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="283" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583987898721" />
+    <state width="1870" height="283" key="GridCell.Tab.0.left" timestamp="1583987898721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="283" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583987898721" />
+    <state width="1870" height="283" key="GridCell.Tab.0.right" timestamp="1583987898721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="283" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583987898721" />
+    <state x="2363" y="117" width="1024" height="852" key="SettingsEditor" timestamp="1583984649241">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2363" y="117" width="1024" height="852" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583984649241" />
+    <state x="2562" y="435" width="615" height="240" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583984022898">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2562" y="435" width="615" height="240" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583984022898" />
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1583985205322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583985205322" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjetoTestesRespostas$IdentificadorTests.ic" NAME="IdentificadorTests Coverage Results" MODIFIED="1583982408662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pgua.eic.tvs.*</FILTER>
+    </SUITE>
+  </component>
+</project>
